@@ -26,7 +26,7 @@ remote_theme: douglasurner/canvas
   * [Sadie S.](https://github.com/SShadduck13)
   * [Hema T.](https://github.com/Kurdistan2004)
   * [Douglas U.](https://github.com/DouglasUrner)
-  
+  * [Quinn S.](https://github.com/QuinnSuligoy)
 </details>
 
 <details>
