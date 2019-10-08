@@ -22,7 +22,7 @@ remote_theme: douglasurner/canvas
   * [Madison A.](https://github.com/wowitsmadiao)
   * [Emma H.](https://github.com/fcr-harris)
   * [Douglas U.](https://github.com/DouglasUrner)
-  
+  * [Quinn S.](https://github.com/QuinnSuligoy)
 </details>
 
 <details>
