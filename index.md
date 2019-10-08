@@ -24,6 +24,7 @@ remote_theme: douglasurner/canvas
   * [Emma H.](https://github.com/fcr-harris)
   * [Brett K.](https://github.com/MP-PocketNinja)
   * [Sadie S.](https://github.com/SShadduck13)
+  * [Hema T.](https://github.com/Kurdistan2004)
   * [Douglas U.](https://github.com/DouglasUrner)
   
 </details>
