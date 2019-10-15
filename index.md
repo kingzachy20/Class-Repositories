@@ -23,7 +23,6 @@
   * [Isaac B.](https://github.com/IkeyoBrownyo)
   * [Emma H.](https://github.com/fcr-harris)
   * [Brett K.](https://github.com/MP-PocketNinja)
-  * [Zac R.] (https://github.com/kingzachy20)
   * [Sadie S.](https://github.com/SShadduck13)
   * [Hema T.](https://github.com/Kurdistan2004)
   * [Douglas U.](https://github.com/DouglasUrner)
@@ -36,6 +35,7 @@
   * [Zackary H.](https://github.com/ZackaryHowell)
   * [Thomas K.](https://github.com/Kay9000)
   * [Lukas P.](https://github.com/LukasPaulus)
+  * [Zac R.](https://github.com/kingzachy20)
   * [Douglas U.](https://github.com/DouglasUrner)
   
 </details>
